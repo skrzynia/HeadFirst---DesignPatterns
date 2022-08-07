@@ -1,2 +1,2 @@
-package Fabric;public class IngredientAbstracFactory {
+package Fabric;public interface IngredientAbstractFactory {
 }
